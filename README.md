@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benlinux1
 - 👀 I’m interested in development and tech
 - 🌱 I’m currently learning java, kotlin and android development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS, PHP, & Android projects
 - 📫 How to reach me : benlinux.dev@gmail.com
 
 <!---
