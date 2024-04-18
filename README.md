@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @benlinux1
-- 👀 I’m interested in development and tech
-- 🌱 I’m currently learning java, kotlin and android development
-- 💞️ I’m looking to collaborate on JS, PHP, & Android projects
+- 👋 Hi, I’m @benlinux1, french fullstack developer
+- 👀 I’m interested in web and mobile apps development, JavaScript, Kotlin & Java languages
+- 🌱 I’m currently building Android native apps in Java/Kotlin, and full JS responsive websites/apps
+- I've created my own agency (Becom'in) in France (see https://www.becom-in.fr)
+- My website reaches 100% on pagespeed & A grade on GTMetrix.
+- 💞️ I’m looking to collaborate on JS & native Android projects
 - 📫 How to reach me : benlinux.dev@gmail.com
 
 <!---
